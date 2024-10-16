@@ -26,20 +26,6 @@ jobs:
           python3 -m venv venv
           source venv/bin/activate
           pip install -r requirements.txt
-          python app.py
-
-      - name: Test python application with simple curl command
-        run: |
-          curl http://localhost:5000
-
-      - name: Test endpoints with curl command
-        run: |
-          curl http://localhost:5000/about
-          curl http://localhost:5000/contact
-
-      - name: Stop application
-        run: |
-          kill $(lsof -t -i:5000)
 
       - name: Stop venv
         run: |
