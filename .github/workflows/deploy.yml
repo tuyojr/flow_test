@@ -1,0 +1,49 @@
+name: Deploy
+
+on:
+  workflow_call:
+
+env:
+  BUILD_DIR: build
+  GITHUB_REF: ${{ github.ref }}
+  GITHUB_BASE_REF: ${{ github.base_ref }}
+  GITHUB_HEAD_REF: ${{ github.head_ref }}
+  GITHUB_EVENT: ${{ github.event_name }}
+  GITHUB_REPO: ${{github.repository }}
+
+jobs:
+  deploy:
+    name: Deploy
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      packages: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          ref: ${{ github.head_ref }}
+
+      - name: Run python application
+        run: |
+          python3 -m venv venv
+          source venv/bin/activate
+          pip install -r requirements.txt
+          python app.py
+
+      - name: Test python application with simple curl command
+        run: |
+          curl http://localhost:5000
+
+      - name: Test endpoints with curl command
+        run: |
+          curl http://localhost:5000/about
+          curl http://localhost:5000/contact
+
+      - name: Stop application
+        run: |
+          kill $(lsof -t -i:5000)
+
+      - name: Stop venv
+        run: |
+          deactivate

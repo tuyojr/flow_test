@@ -1,0 +1,33 @@
+name: Build_and_deploy_on_PR
+
+on:
+  workflow_dispatch: {}
+  pull_request:
+    branches: [develop, main]
+    types: [opened, edited]
+
+jobs:
+  check-actor:
+    runs-on: ubuntu-latest
+    outputs:
+      actor_check: ${{ steps.actor_check.outputs.actor_check }}
+    steps:
+      - name: Check Actor
+        id: actor_check
+        run: |
+          if [ "${{ github.event.pull_request.user.login }}" == "tuyojr" ]; then
+            echo "::set-output name=actor_check::true"
+          else
+            echo "::set-output name=actor_check::false"
+          fi
+
+  build:
+    if: needs.check-actor.outputs.actor_check == 'true'
+    uses: tuyojr/flow_test/.github/workflows/build.yml@main
+    secrets: inherit
+
+  deploy:
+    if: needs.check-actor.outputs.actor_check == 'true'
+    uses: tuyojr/flow_test/.github/workflows/deploy.yml@main
+    secrets: inherit
+    needs: build
