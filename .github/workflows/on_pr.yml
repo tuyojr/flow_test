@@ -23,11 +23,11 @@ jobs:
 
   build:
     if: needs.check-actor.outputs.actor_check == 'true'
-    uses: tuyojr/flow_test/.github/workflows/build.yml@main
+    uses: tuyojr/flow_test/.github/workflows/build.yml@develop
     secrets: inherit
 
   deploy:
     if: needs.check-actor.outputs.actor_check == 'true'
-    uses: tuyojr/flow_test/.github/workflows/deploy.yml@main
+    uses: tuyojr/flow_test/.github/workflows/deploy.yml@develop
     secrets: inherit
     needs: build
