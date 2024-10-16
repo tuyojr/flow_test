@@ -21,7 +21,7 @@ jobs:
         with:
           ref: ${{ github.head_ref }}
 
-      - name: Run python application
+      - name: Install application dependencies
         run: |
           python3 -m venv venv
           source venv/bin/activate
