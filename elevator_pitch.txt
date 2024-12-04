@@ -1,0 +1,73 @@
+https://calendar.google.com/calendar/u/0/r?pli=1 ---> Calendar
+https://loadsure.sentry.io/issues/ ---> Sentry
+https://mailtrap.io/home ---> Mailtrap
+https://loadsure.atlassian.net/jira/your-work ---> Jira
+https://loadsure.atlassian.net/plugins/servlet/ac/linovi-hangoutschat-bot/spaceconfig?ac.state=CiUADq6vSRXaACy%2FCkJUFVA0qzk29R1KF1X%2BXqLeomfB%2B%2FTnWIJfEpUDAKj6ckZGif9lMiGOT1lMIkHInYXlazML%2BWgibAO9gb6O8bQrVNUFFBepk30gIyCL3loG7ZicJRFiNYLOXYfRLUBmXUD030DRNuueyCh3%2F6NW0imPu9ATlxpIjUqrW4VGqQbgI4n35Kic7qDlXMiWIUU2RRG%2F1Sok%2FLyqLC%2B%2FQ7X42YRtFJhm3ZSJX1w8XBe6WMo4mX%2Bl%2FdX1BcM2e2IBHLRzOfG0paY%2Fbr7N6SOkmLS1x6OMe9vblsSaDaeTiCUQjA9z%2B%2BJdCIQkK9EYkynp%2By%2Fms3B5kDfMrg%2FpCq2WXeObYJXH0Yj%2BjkH6H2mRwkO0CMvciDbjKkB4UdWvNkKFPt1Q5M8YA8cS13UMmZNPTtsBkFjiz2SGeG8ZpgA1xhG4SFyB9I8a07rV5IqlBqVo8mNonGKFFh0Fq5cTvkZAFxQK%2F62%2F0OtCagq8xhJD%2B3aUKkT%2BPCrd6eui4sgy5mbbzWlqD22Z8ZBQ4PA6W%2Ff5Qw%2BERbTlE7gO4rsMBi3QxDinyZAQ9xj2CP%2FEzT3DgCc277OhejyB  ---> Jira Chat Notifications
+https://github.com/orgs/Loadsure/teams/devops/repositories ---> GitHub DevOps Repos
+https://github.com/Loadsure/loadsure-iac ---> IaC Repo
+https://github.com/orgs/Loadsure/repositories ---> Org Repos
+https://app.getguru.com/collections ---> Guru
+https://app.getguru.com/folders/ioppaMrT/DevOps?activeCard=4b953310-b46b-458d-b7ff-110efefde526 ---> DevOps Documentation
+https://loadsure.monday.com/boards/1227307786 ---> Monday
+https://loadsure.bamboohr.com/employees/employee.php?id=238&page=2096 ---> BambooHr
+https://www.figma.com/design/PbHlioZRLDEKDoF0zZU3ch/Holistic-Freight-Protection-States---Townplan?node-id=0-1&node-type=canvas&t=c1uTKXR17Dpp4A2T-0 ---> Town Hall Holisitc overview
+https://www.figma.com/board/BiKzuq7raXMlJXznML927l/Infrastructure-Architecture-Diagram?node-id=0-1&node-type=canvas&t=EK6MHKqGzUDgZRKT-0 ---> Infrastructure Architecture Diagram
+
+http://192.168.8.1/#/internet ---> Pineapple VPN
+
+
+
+EP - oluolufunso@outlook.com - 8179866789 - 633-69-2718 - Feb 18
+
+Good morning and thank you for giving me the opportunity to discuss my background and how I can contribute to your team. I am a tech-savvy professional with broad experience in delivering robust DevOps and cloud migration solutions. My career has been driven by a passion for automating infrastructure, optimizing development processes, and ensuring the seamless delivery of software.
+
+ In my role as a Senior DevOps Engineer at Deloitte & Touche LLP in Dallas, I have spearheaded efforts to improve scalability, reduce manual errors, and expedite deployment times through the use of infrastructure as code tools such as Terraform, CloudFormation, and Ansible. I have a strong focus on enabling agile development practices, maintaining robust CI/CD pipelines, and leveraging containerization with Docker and Kubernetes to enhance application flexibility, scalability, and portability. 
+ My expertise encompasses a wide array of DevOps tools, including Jenkins for continuous integration and delivery, Git for version control, and Ansible for configuration management. I am also well-versed in cloud computing platforms like AWS and Azure, where I have enforced best practices to optimize cloud environments according to organizational needs. A key part of my role involves ensuring system reliability and performance through comprehensive monitoring and logging solutions such as CloudWatch, AWS X-Ray, Prometheus, and Grafana. I have also focused on integrating security into the CI/CD pipeline, utilizing tools like Trivy and AWS Security Hub to maintain a robust security posture. 
+
+ Prior to my current role, I worked at 3MD Inc in Redmond, WA, where I developed and maintained reusable templates and automated manual processes to enhance efficiency and reduce human error across multiple cloud providers. My experience as a Cloud Solutions Architect there allowed me to design and implement scalable, cost-effective cloud architectures, leveraging my programming skills in Python, Go, and Bash Scripting.
+
+ My educational background includes a Bachelor of Science in Business Administration-Information Technology from Colorado Technical University, and I hold several certifications, including AWS Certified DevOps Engineer – Professional and Microsoft Certified: DevOps Engineer Expert. I work with a team of 4 developers, 2 DevOps Engineers, 1 quality assurance specialist, 1 scrum master, and 1 and 1 solution architect. My daily activities revolve around infrastructure management, troubleshooting and issue resolution, team collaboration and coordination, and creating secure and efficient development environments that empower our developers. I am confident that my experience in automating and optimizing DevOps processes, along with my proficiency in a wide range of tools and technologies, makes me a strong candidate for your team. I look forward to the opportunity to contribute to your projects and help drive efficiency, reliability, and innovation in your software delivery processes.
+
+
+
+JD
+
+As an DevSecOps Engineer, you will be a key member of our engineering team bringing experience of operations and security using DevOps to drive the growth of Loadsure’s products.
+
+Your primary role will be to build and deploy distributed applications and big data pipelines in the cloud. You will play a key role in influencing and building the DevSecOps framework whilst working with the latest technologies in a cloud based environment.
+
+You will be highly organised and comfortable building relationships and working with all levels of the firm. Stakeholder management and communication will be vital to the success of the role.
+This position requires a self-driven, high-energy professional who’s passionate about disrupting an industry and wants to be rewarded for their performance and contributions.
+
+We believe that with a growth mindset, tech-first innovation, and focused execution, anything is possible. We value others’ insights and ideas to build a collaborative, entrepreneurial, and lighthearted environment.
+
+Key Responsibilities;
+* Contribute to the design of information and operational support systems
+* Proactively organise the highest levels of systems and infrastructure availability
+* Establish standards for, implement, and build deployment and monitoring systems
+* Collaborate with development teams to deliver an end-to-end automation of deployment, monitoring and infrastructure management within a cloud environment
+* Collaborate with our engineering team to create an automated CI/CD system
+* Build and configure delivery environments supporting CD/CI tools
+* Create scripts and/or templates to automate / bootstrap infrastructure provisioning and management tasks
+* Monitor and support systems and infrastructure
+* Develop custom scripts to increase system efficiency and lower human intervention
+* Install, configure, test and maintain operating systems, application software, and system management tools
+* Manage the company’s security, backup, and redundancy strategies
+* Evaluate application performance, identify potential bottlenecks, develop solutions, and implement them in collaboration with developers
+
+Skills and Qualifications;
+Essential;
+* 3 + years experience within a Engineering or Senior Engineer position or similar
+* Demonstrated experience with secure development, coding, engineering practices
+* Experience with Infrastructure as Code and infrastructure testing strategies
+* Experience with systems reliability, load balancing, monitoring, logging
+* Experience with fully automating CI/CD pipelines end-to-end, from code commits to production
+* Demonstrated experience of CI/CD implementation
+* Excellent knowledge of networking technologies
+* Strong scripting skills, including shell scripts, Bash, Python, Ruby
+* Good experience in administering and performance tuning of application stacks
+* Eagerness and willingness to learn
+* Accuracy and attention to detail
+* Self-starter who takes initiative
+* Outstanding interpersonal and problem solving skills
+* Thrive in a fast-paced, high-growth, rapidly changing technical environment
